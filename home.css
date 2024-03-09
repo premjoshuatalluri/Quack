@@ -1,0 +1,40 @@
+* {
+  font-family: Pixelify Sans;
+  background-color: #FFEE1D;
+}
+.menu {
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px;
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  margin: 0px;
+}
+.tagline {
+  size: 30px;
+  color: #1D54FF;
+}
+.join {
+ border: none;
+ background-color: white;
+ border-radius: 5px;
+ padding: 10px;
+ font-family: Pixelify Sans;
+ cursor: pointer;
+}
+.introduction {
+  color: #1D54FF;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.form-account{
+  padding:  0% 20%;
+}
+.form-account p {
+  font-size: 20px;
+}
+.footer {
+  padding: 5% 0% 0% 0%;
+  text-align: center;
+}
